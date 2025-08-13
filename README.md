@@ -5,55 +5,16 @@
   </a>
 </p>
 <p align="center">
-  Makes Klipper more accessible by adding a lightweight, responsive web user interface, centred around an intuitive and consistent design philosophy.
+  Add Klipper Gimbal-Control.
 </p>
-<p align="center">
-    <a aria-label="Downloads" href="https://github.com/mainsail-crew/mainsail/releases">
-      <img src="https://img.shields.io/github/downloads/mainsail-crew/mainsail/total?style=flat-square">
-  </a>
-    <a aria-label="Localization" href="https://docs.mainsail.xyz/development/localization">
-      <img src="https://shields-staging.herokuapp.com/github/directory-file-count/mainsail-crew/mainsail/src%2Flocales?label=localizations&extension=json&type=file&style=flat-square">
-  </a>
-    <a aria-label="Stars" href="https://github.com/mainsail-crew/mainsail/stargazers">
-      <img src="https://img.shields.io/github/stars/mainsail-crew/mainsail?style=flat-square">
-  </a>
-    <a aria-label="Forks" href="https://github.com/mainsail-crew/mainsail/network/members">
-      <img src="https://img.shields.io/github/forks/mainsail-crew/mainsail?style=flat-square">
-  </a>
-    <a aria-label="License" href="https://github.com/mainsail-crew/mainsail/blob/develop/LICENSE">
-      <img src="https://img.shields.io/github/license/mainsail-crew/mainsail?style=flat-square">
-  </a>
-    <a aria-label="Last commit" href="https://github.com/mainsail-crew/mainsail/commits/">
-      <img src="https://img.shields.io/github/last-commit/meteyou/mainsail?style=flat-square">
-  </a>
-<br />
-    <a aria-label="Size" href="https://github.com/mainsail-crew/mainsail/">
-      <img src="https://img.shields.io/github/repo-size/meteyou/mainsail?style=flat-square">
-  </a>
-    <a aria-label="Discord" href="https://discord.gg/skWTwTD">
-      <img src="https://img.shields.io/discord/758059413700345988?color=%235865F2&label=discord&logo=discord&logoColor=white&style=flat-square">
-  </a>
-    <a aria-label="Patreon" href="https://www.patreon.com/meteyou">
-      <img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dmeteyou%26type%3Dpatrons&style=flat-square">
-  </a>
-</p>
+
 
 ## Getting Started
 
-Visit [docs.mainsail.xyz/setup](https://docs.mainsail.xyz/setup) to get started with Mainsail.
-
-Mainsail is also available in remote mode on [http://my.mainsail.xyz](http://my.mainsail.xyz). Find
-out [more](https://docs.mainsail.xyz/setup#mymainsailxyz).
-
 ## Documentation
-
-Visit [docs.mainsail.xyz](https://docs.mainsail.xyz) to view the full documentation.  
-You can find the latest release notes [here](https://github.com/mainsail-crew/mainsail/releases).
 
 ## Screenshots
 
-![screenshot-dashboard](https://raw.githubusercontent.com/mainsail-crew/docs/master/assets/img/screenshot.png)
-![Features](https://raw.githubusercontent.com/mainsail-crew/docs/master/assets/img/features.png)
 
 ## Features
 
@@ -77,41 +38,6 @@ You can find the latest release notes [here](https://github.com/mainsail-crew/ma
 - **[Additional Sensors](https://docs.mainsail.xyz/quicktips/additional-sensors):** _Add extra sensors to the temperature graph_
 - **Exclude Objects:** _Exclude parts of your print <sup>(not officially supported by Klipper yet)</sup>_
 
-## Help and Support
-
-Do you need help or just want to talk? Join our active community on [Discord](https://discord.gg/skWTwTD)!
-
-Did you find a bug or did you thought of a feature?
-Please create an [Issue](https://github.com/mainsail-crew/mainsail/issues) in GitHub and let us know.
-
-## Official Sponsors
-
-<p align='center'>
-    <img src="https://raw.githubusercontent.com/mainsail-crew/docs/master/assets/img/logo-bigtreetech.png" alt='Mainsail logo' width="150">
-</p>
-
-**BIGTREETECH** is the official mainboard partner of Mainsail. BIGTREETECH is committed to developing innovative and competitive products to better serve the 3D printing community.
-
-## Support Mainsail
-
-Mainsail is primarily developed and maintained by meteyou. To keep the project going he invests his free time, almost
-every day. To motivate him (☕🍺😜) there are several ways to support him:
-
-[![patreon](https://img.shields.io/badge/patreon-participate-yellow.svg?style=flat-square)](https://www.patreon.com/meteyou)
-[![kofi](https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg?style=flat-square)](https://ko-fi.com/mainsail)
-
-## Contributing
-
-Contributions to Mainsail are always welcome!
-
-- 📥 Pull requests and 🌟 Stars are always welcome.
-- Read our [contributing guidelines](CONTRIBUTING.md) to get started,
-  or find us on [Discord](https://discord.gg/mainsail), we will take the time to guide you.
-
-Looking for a first issue to tackle?
-
-- We tag issues with [![Good First Issue](https://img.shields.io/github/issues/mainsail-crew/mainsail/good%20first%20issue.svg)](https://github.com/mainsail-crew/mainsail/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22) when we think they are well suited for people who are new to the codebase or OSS in general.
-- [Talk to us](https://discord.gg/mainsail), we'll find something that suits your skills and learning interest.
 
 ## Credit, sources and inspiration
 
